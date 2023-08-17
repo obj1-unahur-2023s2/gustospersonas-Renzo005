@@ -1,6 +1,6 @@
 /** First Wollok example */
 object wollok {
 	method howAreYou() {
-		return 'muy bien'
+		return 'todo muy bien'
 	}
 }
