@@ -10,14 +10,12 @@ object rosa {
 
 object estefania {
 	method leGusta(algo){
-		//return algo.esDeColorFuerte()
 		return algo.color().esFuerte()
 	}
 }
 
 object luisa {
 	method leGusta(algo){
-		//return algo.esDeMaterialBrillante()
 		return algo.material().esBrillante()
 	}
 }
